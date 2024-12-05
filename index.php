@@ -73,7 +73,7 @@
                         </div>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
-                    <a href="" class="btn btn-primary py-2 px-4">Book A Table</a>
+                    <a href="booking.php" class="btn btn-primary py-2 px-4">Book A Table</a>
                 </div>
             </nav>
 
@@ -83,7 +83,7 @@
                         <div class="col-lg-6 text-center text-lg-start">
                             <h1 class="display-3 text-white animated slideInLeft">Enjoy Our<br>Delicious Meal</h1>
                             <p class="text-white animated slideInLeft mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                            <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Book A Table</a>
+                            <a href="booking.php" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Book A Table</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-end overflow-hidden">
                             <img class="img-fluid" src="img/hero.png" alt="">
@@ -632,9 +632,9 @@
                             <div class="rounded-circle overflow-hidden m-4">
                                 <img class="img-fluid" src="img/team-1.jpg" alt="">
                             </div>
-                            <h5 class="mb-0">Full Name</h5>
-                            <small>Designation</small>
-                            <div class="d-flex justify-content-center mt-3">
+                            <h5 class="mb-0">Kelvin Falentino</h5>
+                            <small>Chef</small>
+                            <div class="d-flex justify-content-center mt-5">
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
@@ -646,9 +646,9 @@
                             <div class="rounded-circle overflow-hidden m-4">
                                 <img class="img-fluid" src="img/team-2.jpg" alt="">
                             </div>
-                            <h5 class="mb-0">Full Name</h5>
-                            <small>Designation</small>
-                            <div class="d-flex justify-content-center mt-3">
+                            <h5 class="mb-0">Reza Aditya Putra</h5>
+                            <small>Chef</small>
+                            <div class="d-flex justify-content-center mt-5">
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
@@ -660,9 +660,9 @@
                             <div class="rounded-circle overflow-hidden m-4">
                                 <img class="img-fluid" src="img/team-3.jpg" alt="">
                             </div>
-                            <h5 class="mb-0">Full Name</h5>
-                            <small>Designation</small>
-                            <div class="d-flex justify-content-center mt-3">
+                            <h5 class="mb-0">Achmad Fatih Azhar</h5>
+                            <small>Chef</small>
+                            <div class="d-flex justify-content-center mt-5">
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
@@ -674,9 +674,9 @@
                             <div class="rounded-circle overflow-hidden m-4">
                                 <img class="img-fluid" src="img/team-4.jpg" alt="">
                             </div>
-                            <h5 class="mb-0">Full Name</h5>
-                            <small>Designation</small>
-                            <div class="d-flex justify-content-center mt-3">
+                            <h5 class="mb-0">Muhammad Farel Suherman</h5>
+                            <small>Chef</small>
+                            <div class="d-flex justify-content-center mt-4">
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
@@ -800,7 +800,7 @@
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href="">Home</a>
+                                <a href="index.php">Home</a>
                                 <a href="">Cookies</a>
                                 <a href="">Help</a>
                                 <a href="">FQAs</a>
